@@ -23,7 +23,7 @@
 
 
 ### 🏆 GitHub Трофеи
-![trophy](https://github-profile-trophy.vercel.app/?username=AkmaljonAxmadov&theme=onedark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AkmaljonAxmadov&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkmaljonAxmadov&show_icons=true&theme=radical)
