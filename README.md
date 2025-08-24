@@ -16,6 +16,7 @@
 
 ### 🚀 Мои проекты
 - 🌦️ [Weather API](https://github.com/AkmaljonAxmadov/weather_app_api)
+- 🖧 [Reverse_Echo_Server](https://github.com/AkmaljonAxmadov/reverse-server)
 
 ### 📬 Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akhmadov9)
